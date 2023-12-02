@@ -1,14 +1,12 @@
 #!/bin/bash
 
 # Ask the user the year
-echo "Enter the year: "
-echo "2022"
-echo "2023"
+echo "Enter the year between 2019 and 2023: "
 
 # Read the year
 read INPUT_YEAR
 
-if [ $INPUT_YEAR -lt 2019 ] || [ $INPUT_YEAR -gt 2025 ]
+if [ $INPUT_YEAR -lt 2019 ] || [ $INPUT_YEAR -gt 2023 ]
 then
     echo "Invalid input"
     exit
