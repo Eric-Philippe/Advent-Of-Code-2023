@@ -2,6 +2,12 @@
 
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
+     <!-- #### 2021 #### -->
+    <p> 2021</p>
+    <img src="https://img.shields.io/badge/State-Current-green">
+    <img src="https://img.shields.io/badge/Day%20📅-25-blue">
+    <img src="https://img.shields.io/badge/Stars%20⭐-2/50-yellow">
+    <img src="https://img.shields.io/badge/Days%20Completed-1/25-red">
     <!-- #### 2022 #### -->
     <p> 2022</p>
     <img src="https://img.shields.io/badge/State-Finished-green">
