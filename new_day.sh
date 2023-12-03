@@ -31,3 +31,6 @@ fi
 cp template.py "$DIR_PATH/main.py"
 touch "$DIR_PATH/input.txt"
 
+# Show the user the command to launch the main.py
+echo "python3 $DIR_PATH/main.py"
+
