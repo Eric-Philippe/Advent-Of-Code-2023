@@ -1,11 +1,13 @@
 def part_one(file_name: str) -> int:
     with open(file_name) as f:
         lines = f.readlines()
+        lines: list[str] = [line.strip() for line in lines]
     print("Not implemented yet")
 
 def part_two(file_name: str) -> int:
     with open(file_name) as f:
         lines = f.readlines()
+        lines: list[str] = [line.strip() for line in lines]
     print("Not implemented yet")
 
 if __name__ == "__main__":
