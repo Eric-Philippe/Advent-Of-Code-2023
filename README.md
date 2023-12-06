@@ -17,9 +17,9 @@
     <!-- #### 2023 #### -->
     <p> 2023</p>
     <img src="https://img.shields.io/badge/State-Current-green">
-    <img src="https://img.shields.io/badge/Day%20📅-6-blue">
-    <img src="https://img.shields.io/badge/Stars%20⭐-12/50-yellow">
-    <img src="https://img.shields.io/badge/Days%20Completed-6/6-red">
+    <img src="https://img.shields.io/badge/Day%20📅-7-blue">
+    <img src="https://img.shields.io/badge/Stars%20⭐-14/50-yellow">
+    <img src="https://img.shields.io/badge/Days%20Completed-7/7-red">
         <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
     
 </div>
@@ -53,6 +53,7 @@ I feel like Python is the best and easier language for me to solve these challen
 | 2023 |  4  | 0.779ms | 0.904ms |
 | 2023 |  5  | 0.372ms | 1.716ms |
 | 2023 |  6  | 0.142ms | 0.033ms |
+| 2023 |  7  | 6.287ms | 5.168ms |
 
 **Note:** The run time is calculated using the full input file, the one provided in the repository is a cut down version of the original one in order to respect the AdventOfCode copy right about the input files.
 
