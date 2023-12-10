@@ -17,9 +17,9 @@
     <!-- #### 2023 #### -->
     <p> 2023</p>
     <img src="https://img.shields.io/badge/State-Current-green">
-    <img src="https://img.shields.io/badge/Day%20📅-9-blue">
-    <img src="https://img.shields.io/badge/Stars%20⭐-18/50-yellow">
-    <img src="https://img.shields.io/badge/Days%20Completed-9/9-red">
+    <img src="https://img.shields.io/badge/Day%20📅-10-blue">
+    <img src="https://img.shields.io/badge/Stars%20⭐-20/50-yellow">
+    <img src="https://img.shields.io/badge/Days%20Completed-10/10-red">
         <img src="https://cdn.discordapp.com/attachments/579303130886569984/1056630606408208424/image.png" style=" border-radius:3px">
     
 </div>
@@ -45,17 +45,18 @@ I feel like Python is the best and easier language for me to solve these challen
 
 ## Run time
 
-| Year | Day | Part 1  |  Part 2  |
-| :--: | :-: | :-----: | :------: |
-| 2023 |  1  | 0.614ms | 3.503ms  |
-| 2023 |  2  | 0.911ms | 0.755ms  |
-| 2023 |  3  | 3.208ms | 2.934ms  |
-| 2023 |  4  | 0.779ms | 0.904ms  |
-| 2023 |  5  | 0.372ms | 1.716ms  |
-| 2023 |  6  | 0.142ms | 0.033ms  |
-| 2023 |  7  | 6.287ms | 5.168ms  |
-| 2023 |  8  | 3.533ms | 15.069ms |
-| 2023 |  9  | 7.202ms | 6.684ms  |
+| Year | Day |   Part 1   |   Part 2   |
+| :--: | :-: | :--------: | :--------: |
+| 2023 |  1  |  0.614ms   |  3.503ms   |
+| 2023 |  2  |  0.911ms   |  0.755ms   |
+| 2023 |  3  |  3.208ms   |  2.934ms   |
+| 2023 |  4  |  0.779ms   |  0.904ms   |
+| 2023 |  5  |  0.372ms   |  1.716ms   |
+| 2023 |  6  |  0.142ms   |  0.033ms   |
+| 2023 |  7  |  6.287ms   |  5.168ms   |
+| 2023 |  8  |  3.533ms   |  15.069ms  |
+| 2023 |  9  |  7.202ms   |  6.684ms   |
+| 2023 | 10  | 1758.343ms | 1769.731ms |
 
 **Note:** The run time is calculated using the full input file, the one provided in the repository is a cut down version of the original one in order to respect the AdventOfCode copy right about the input files.
 
